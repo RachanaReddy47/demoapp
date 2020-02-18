@@ -9,7 +9,12 @@ namespace demoapp
     class test
     {
         public test()
-        { }
+        {
+
+            Console.WriteLine("hello");
+                
+        
+        }
              
     }
 }
