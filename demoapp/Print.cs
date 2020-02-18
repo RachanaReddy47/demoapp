@@ -8,5 +8,9 @@ namespace demoapp
 {
     class Print
     {
+        public Print()
+        {
+            Console.WriteLine("Print Method");
+        }
     }
 }
